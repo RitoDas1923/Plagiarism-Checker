@@ -9,3 +9,6 @@ The steps to using Plagiarism-Checker are :
   6. Run app.py 
   
  
+Demo image :
+
+![alt text](https://github.com/RitoDas1923/Plagiarism-Checker/blob/master/demo.png)
